@@ -1,4 +1,2 @@
-My personal code cookbook.
 
-[Docker](docker)
-[PyTest](pytest)
+[Interesting Things](interesting-things)
