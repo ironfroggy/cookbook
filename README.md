@@ -16,3 +16,6 @@
 * Testing strategies
 * Ansible learning notes
 * WSL tips and help
+* Git tips
+* Collection of online tools
+* Collection of useful references, posts, and tutorials
