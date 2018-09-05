@@ -19,3 +19,6 @@
 * Git tips
 * Collection of online tools
 * Collection of useful references, posts, and tutorials
+* Guidelines for Python code
+* Guidelines for doing good code reviews
+* Guidelines for debugging code
