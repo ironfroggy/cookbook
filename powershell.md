@@ -2,10 +2,6 @@
 
 ## Bash Equivalents
 
-```bash
-which foobar
-```
-
-```powershell
-Get-Command foobar
-```
+| Bash | Powershell |
+| --- | --- |
+| `which foobar` | `Get-Command foobar` |
