@@ -4,6 +4,7 @@
 
 * [Docker](docker)
 * [PyTest](pytest)
+* [Python](python)
 
 ## Collections
 
