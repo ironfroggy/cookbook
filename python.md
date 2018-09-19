@@ -2,11 +2,18 @@
 
 ## Strings
 
-### Format numbres with f-string syntax
+### Format numbers
 
 ```python
 x = 3.14159265
 print(f'pi = {x:.2f}')
+print( 'pi = %0.2f' % x)
+```
+
+```python
+ten = 10
+print(f'x = {x:.2f}')
+print('x = %0.2f' % x)
 ```
 
 ## Date and Time
