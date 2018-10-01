@@ -3,6 +3,7 @@
 ## Topics
 
 * [Docker](docker)
+* [Git](git)
 * [PowerShell](powershell)
 * [PyTest](pytest)
 * [Python](python)
