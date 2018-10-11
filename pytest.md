@@ -17,7 +17,13 @@ a test framework in the standard library?
 ### Re-run Recent Failed Tests First
 
 ```bash
-py.test --ff
+py.test --ff # or --first-failed
+```
+
+...or re-run _only_ the failing tests
+
+```bash
+py.test --lf  # or --last-failed
 ```
 
 ### Stop on First Test Failure
