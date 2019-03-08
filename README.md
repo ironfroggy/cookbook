@@ -25,3 +25,7 @@
 * Guidelines for Python code
 * Guidelines for doing good code reviews
 * Guidelines for debugging code
+
+## Awesome Lists
+
+* [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)
