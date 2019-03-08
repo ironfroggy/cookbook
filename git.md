@@ -37,3 +37,12 @@ Share an already existing local branch to the remote server.
 ```bash
 git push --set-upstream origin branch-name
 ```
+
+## Windows
+
+How to commit an executable bit on a file on Windows, where there is no executable bit on files.
+(From https://stackoverflow.com/questions/21691202/how-to-create-file-execute-mode-permissions-in-git-on-windows )
+
+```bash
+git update-index --chmod=+x foo.sh
+```
