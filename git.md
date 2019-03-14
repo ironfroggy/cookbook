@@ -46,3 +46,18 @@ How to commit an executable bit on a file on Windows, where there is no executab
 ```bash
 git update-index --chmod=+x foo.sh
 ```
+
+## Github
+
+Want to make checking out PR branches easier? Github exposes PRs as a special remote you can track.
+
+```bash
+git config --local --add remote.origin.fetch +refs/pull/*/head:refs/remotes/upstream/pr/*
+```
+
+Now, every fetch from the central repo will include information about all your pull requests. You can checkout a specific pull request easily.
+
+```bash
+git fetch
+git checkout -b pr/123
+```
