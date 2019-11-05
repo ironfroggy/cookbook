@@ -3,6 +3,7 @@
 ## Topics
 
 * [Docker](docker)
+* [Gamedev](gamedev)
 * [Git](git)
 * [PowerShell](powershell)
 * [PyTest](pytest)
@@ -15,7 +16,6 @@
 ## Potential Future Additions
 
 * Python tips, tricks, and help
-* Game development resources
 * Testing strategies
 * Ansible learning notes
 * WSL tips and help
@@ -25,3 +25,7 @@
 * Guidelines for Python code
 * Guidelines for doing good code reviews
 * Guidelines for debugging code
+
+## Awesome Lists
+
+* [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)
